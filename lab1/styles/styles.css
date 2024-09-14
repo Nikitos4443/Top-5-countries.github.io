@@ -132,6 +132,7 @@ div {
 
 .nav-bar {
     display: flex;
+    flex-wrap: wrap;
     width: 60%;
     border: 1px solid var(--third-color);
     background-color: var(--main-bg-color);
